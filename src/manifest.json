@@ -21,7 +21,7 @@
   },
   "options_page": "options.html",
   "omnibox": {
-    "keyword": "p"
+    "keyword": "pb"
   },
   "permissions": [
     "storage",
